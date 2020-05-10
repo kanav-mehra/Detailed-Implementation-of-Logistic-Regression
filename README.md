@@ -1,4 +1,4 @@
-# Detailed-Implementation-of-Logistic-Regression
+# Detailed Implementation of Logistic Regression
 
 This repo contains the detailed implementation of logistic regression algorithm. 
 
